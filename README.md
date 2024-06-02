@@ -4,7 +4,7 @@ I'm Marius, a Germany-based hobby coder.
 ## About me
 ✨ Creating bugs since 2015   
 📚 Currently learning Elixir   
-🎯 I like to work practically, and learn by doing. That's what's most fun and gets you solve real world problems quickly.   
+🎯 I like to work practically, and learn by doing. That's what's most fun and gets you to solve real world problems quickly.   
 🐧 Using Arch Linux (magnificent OS)   
 🕵️ Privacy advocate   
 🩺 Interested in medicine   
