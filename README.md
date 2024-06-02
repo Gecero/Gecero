@@ -1,22 +1,19 @@
-<h1 align="left">Sup?</h1>
+# Sup?
+I'm Marius, a Germany-based hobby coder.
 
-###
+## About me
+✨ Creating bugs since 2015   
+📚 Currently learning Elixir   
+🎯 I like to work practically, and learn by doing. That's what's most fun and gets you solve real world problems quickly.   
+🐧 Using Arch Linux (magnificent OS)   
+🕵️ Privacy advocate   
+🩺 Interested in medicine   
+🛩️ Into aviation as well   
+🐇 Plan 9 from Bell Labs fascinates me, although I rarely use it now   
+🖖 Star Trek > Star Wars   
+🌐 I speak German, English, Spanish and Esperanto (ordered by skill level)
 
-<p align="left">I'm Marius, a Germany-based hobby coder.</p>
-
-###
-
-<h2 align="left">About me</h2>
-
-###
-
-<p align="left">✨ Creating bugs since 2015<br>📚 Currently learning Elixir<br>🎯 I like to work practically, and learn by doing. That's what's most fun and gets you solve real world problems quickly.<br>🐧 Using Arch Linux (magnificent OS)<br>🕵️ Privacy advocate<br>🩺 Interested in medicine<br>🛩️ Aviation as well<br>🐇 Plan 9 from Bell Labs fascinates me, although I rarely use it now<br>🖖 Star Trek > Star Wars<br>🌐 I speak German, English, Spanish and Esperanto (ordered by skill level)</p>
-
-###
-
-<h2 align="left">I code with</h2>
-
-###
+## I code with
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/elixir/elixir-original.svg" height="40" alt="elixir logo"  />
@@ -62,10 +59,6 @@
 
 <img src="https://raw.githubusercontent.com/gecero/gecero/output/snake.svg" alt="Snake animation" />
 
-###
-
 <div align="right">
   <img src="https://profile-counter.glitch.me/gecero/count.svg?"  />
 </div>
-
-###
